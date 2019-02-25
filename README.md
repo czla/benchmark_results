@@ -1,4 +1,4 @@
-# OTB Results
+﻿# OTB Results
 
 **Share results for `more recent` trackers.**
 
@@ -78,7 +78,40 @@
 
 ## Visual Trackers
 
-### ECCV2018
+### CVPR2019
+
+* **SiamMask:** Qiang Wang, Li Zhang, Luca Bertinetto, Weiming Hu, Philip H.S. Torr.<br />
+  "Fast Online Object Tracking and Segmentation: A Unifying Approach." CVPR (2019). 
+  [[paper](https://arxiv.org/pdf/1812.05050.pdf)]
+  [[project](http://www.robots.ox.ac.uk/~qwang/SiamMask/)]
+
+* **CIR:** Zhipeng Zhang, Houwen Peng.<br />
+  "Deeper and Wider Siamese Networks for Real-Time Visual Tracking." CVPR (2019). 
+  [[paper](https://arxiv.org/pdf/1901.01660.pdf)]
+  [[code](https://gitlab.com/MSRA_NLPR/deeper_wider_siamese_trackers)]
+
+* **SiamRPN++:** Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan.<br />
+  "SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks." CVPR (2019). 
+  [[paper](https://arxiv.org/pdf/1812.11703.pdf)]
+  [[project](http://bo-li.info/SiamRPN++/)]
+
+* **C-RPN:** Heng Fan, Haibin Ling.<br />
+  "Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking." CVPR (2019). 
+  [[paper](https://arxiv.org/pdf/1812.06148.pdf)]
+
+* **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling.<br />
+  "LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking." CVPR (2019). 
+  [[paper](https://arxiv.org/pdf/1809.07845.pdf)]
+  [[project](https://cis.temple.edu/lasot/)]
+
+### AAAI2019
+
+* **LDES:** Yang Li, Jianke Zhu, Steven C.H. Hoi, Wenjie Song, Zhefeng Wang, Hantang Liu.<br />
+  "Robust Estimation of Similarity Transformation for Visual Object Tracking." AAAI (2019). 
+  [[paper](https://arxiv.org/pdf/1712.05231.pdf)]
+  [[code](https://github.com/ihpdep/LDES)] 
+
+### NIPS2018
 
 * **DAT:** Shi Pu, Yibing Song, Chao Ma, Honggang Zhang, Ming-Hsuan Yang.<br />
   "Deep Attentive Tracking via Reciprocative Learning." NIPS (2018). 
@@ -214,6 +247,14 @@
 * **HP:** Xingping Dong, Jianbing Shen, Wenguan Wang, Yu, Liu, Ling Shao, and Fatih Porikli.
   "Hyperparameter Optimization for Tracking with Continuous Deep Q-Learning." CVPR (2018).
   [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Hyperparameter_Optimization_for_CVPR_2018_paper.pdf)]
+
+
+### NIPS2017
+
+* **HART:** Adam R. Kosiorek, Alex Bewley, Ingmar Posner. 
+  "Hierarchical Attentive Recurrent Tracking." NIPS (2017). 
+  [[paper](https://papers.nips.cc/paper/6898-hierarchical-attentive-recurrent-tracking.pdf)]
+  [[github](https://github.com/akosiorek/hart)]
 
 
 ### ICCV2017
@@ -626,11 +667,6 @@
 * **SFT:** Zhen Cui, You yi Cai, Wen ming Zheng, Jian Yang. 
   "Spectral Filter Tracking." arXiv (2017). 
   [[paper](https://arxiv.org/pdf/1707.05553v1.pdf)]
-
-* **HART:** Adam R. Kosiorek, Alex Bewley, Ingmar Posner. 
-  "Hierarchical Attentive Recurrent Tracking." arXiv (2017). 
-  [[paper](https://arxiv.org/pdf/1706.09262.pdf)]
-  [[github](https://github.com/akosiorek/hart)]
 
 * **Re3:** Daniel Gordon, Ali Farhadi, Dieter Fox. 
   "Re3 : Real-Time Recurrent Regression Networks for Object Tracking." arXiv (2017). 
